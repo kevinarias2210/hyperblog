@@ -33,3 +33,12 @@ describe el juicio de Mendicant Bias después de su derrota en la Batalla de la 
 hola mama. Estoy repasando lo aprendido.
 
 mi gato se llama mirringo, otro gato llamada negra.
+
+Así es como empezó...
+Es el año 2524. Harvest es una pacífica y próspera colonia agrícola en el límite del espacio controlado por la humanidad. 
+Pero hemos irrumpido en tierra sagrada: nos hemos metido en el camino de un agresivo imperio alienígena conocido como el Covenant. 
+Lo que comienza como un encuentro casual entre una nave corsaria alienígena y un carguero humano catapulta a la humanidad a una lucha por su propia existencia.
+Pero la humanidad también está inmersa en una amarga guerra civil conocida como la Insurrección. 
+Así que la supervivencia de los ciudadanos de Harvest recae en un escuadrón de marines del UNSC cansados de la batalla y sus inexpertos 
+aprendices de la milicia colonial. En este improbable grupo de héroes, uno destaca por encima del resto... 
+un joven Sargento de Estado Mayor de los Marines llamado Avery Johnson.
